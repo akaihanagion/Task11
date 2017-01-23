@@ -1,0 +1,4 @@
+require 'akaihanagem'
+
+
+Rgem.hi

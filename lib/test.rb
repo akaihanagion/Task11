@@ -1,0 +1,3 @@
+require "gem"
+
+gem.hi

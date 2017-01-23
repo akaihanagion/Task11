@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    akaihanagem (0.0.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  akaihanagem (= 0.0.0)
+
+BUNDLED WITH
+   1.14.2
